@@ -73,7 +73,7 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 <img src="https://img.shields.io/badge/Androidstudio-安卓开发-3DDC84?style=flat-square&logo=Android%20Studio&labelColor=ffffff&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=fd6430"/>
 <img src="https://img.shields.io/badge/WebStorm-vue开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=07c3f2"/>
-<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/Steam-悠闲娱乐-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
 
