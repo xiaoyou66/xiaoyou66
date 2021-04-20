@@ -47,7 +47,7 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/C/C++-11-659ad2?logo=C%2B%2B&logoColor=659ad2"/>
-	<img src="https://img.shields.io/badge/C%23-4.0-2c006c?logo=c Sharp&logoColor=2c006c"/>
+	<img src="https://img.shields.io/badge/C%23-4.0-2c006c?logo=c%20Sharp&logoColor=2c006c"/>
 	<img src="https://img.shields.io/badge/Lua-5.0-000080?logo=Lua&logoColor=000080"/>
     <img src="https://img.shields.io/badge/Ruby-3.0-f70f19?logo=Ruby&logoColor=f70f19"/>
     <img src="https://img.shields.io/badge/Shell-1.0-3e484a?logo=GNU%20Bash&logoColor=ffffff"/>
@@ -60,8 +60,8 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 <img src="https://img.shields.io/badge/Windows10--0?style=social&logo=Windows&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/Centos7--0?style=social&logo=Centos&logoColor=262577"/>
 <img src="https://img.shields.io/badge/Ubuntu--0?style=social&logo=Ubuntu&logoColor=E95420"/>
-<img src="https://img.shields.io/badge/Kali--0?style=social&logo=Kali Linux&logoColor=E95420"/>
-<img src="https://img.shields.io/badge/Raspberry Pi--0?style=social&logo=Raspberry Pi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/Kali--0?style=social&logo=Kali%20Linux&logoColor=E95420"/>
+<img src="https://img.shields.io/badge/Raspberry Pi--0?style=social&logo=Raspberry%20Pi&logoColor=A22846"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Arduino--0?style=social&logo=Arduino&logoColor=00979D"/>
@@ -70,10 +70,10 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 ### 🔧常用的工具或软件
 
 <p align="center">
-<img src="https://img.shields.io/badge/Androidstudio-安卓开发-3DDC84?style=flat-square&logo=Android Studio&labelColor=ffffff&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ IDEA&labelColor=ffffff&logoColor=fd6430"/>
+<img src="https://img.shields.io/badge/Androidstudio-安卓开发-3DDC84?style=flat-square&logo=Android%20Studio&labelColor=ffffff&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=fd6430"/>
 <img src="https://img.shields.io/badge/WebStorm-vue开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=07c3f2"/>
-<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe Premiere Pro&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/Steam-悠闲娱乐-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
 
