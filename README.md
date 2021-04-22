@@ -71,11 +71,29 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 
 <p align="center">
 <img src="https://img.shields.io/badge/Androidstudio-安卓开发-3DDC84?style=flat-square&logo=Android%20Studio&labelColor=ffffff&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=fd6430"/>
-<img src="https://img.shields.io/badge/WebStorm-vue开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=07c3f2"/>
-<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/IDEA-Java开发-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000"/>
+<img src="https://img.shields.io/badge/WebStorm-vue开发-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PyCharm-Python开发-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PhpStorm-PHP开发-21d789?style=flat-square&logo=PhpStorm&labelColor=ffffff&logoColor=000000"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/VsCode-软件开发-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/MySQL-结构型数据库-4479A1?style=flat-square&logo=MySQL&labelColor=ffffff&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MongoDB-文档型数据库-47A248?style=flat-square&logo=MongoDB&labelColor=ffffff&logoColor=47A248"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Chrome-浏览器-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Edge-浏览器-0078D7?style=flat-square&logo=Microsoft%20Edge&labelColor=ffffff&logoColor=0078D7"/>
 <img src="https://img.shields.io/badge/Steam-悠闲娱乐-000000?style=flat-square&logo=Steam&labelColor=ffffff&logoColor=000000"/>
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Premiere-视频剪辑-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&labelColor=ffffff&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Photoshop-P图工具-31A8FF?style=flat-square&logo=Adobe%20Photoshop&labelColor=ffffff&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/AE-后期制作-9999FF?style=flat-square&logo=Adobe%20After%20Effects&labelColor=ffffff&logoColor=9999FF"/>
+</p>
+
 
 ###  🔗常逛的网站
 
