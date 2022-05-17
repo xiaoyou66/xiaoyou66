@@ -23,18 +23,11 @@
 
 ### 🍨 XBlog博客系统
 
-XBlog是一款基于前后端分离模式开发的二次元多端博客系统，本人后面的中心主要都会花在上面，欢迎大家使用，购买地址 [Xblog博客系统购买 (xiaoyou66.com)](https://xblog.xiaoyou66.com/)
+本系统是我花了将近两年时间开发的，目前已经开源，开源地址 https://github.com/xiaoyou-bilibili/xblog
 
-如需了解开发进度请参考： [开发进度 | Trello](https://trello.com/b/RDmY88Ld/开发进度)  或者关注我的B站：[小-游的个人空间-Bilibili](https://space.bilibili.com/343147393)
+### 个人B站项目合集
 
-目前包括安卓、微信小程序、H5、PC端。
-
-后续几个大计划
-
-- [x] docker自动部署
-- [ ] 实现插件功能
-- [ ] 添加PHP版本
-- [ ] 实现主题功能
+以后在视频平台做过的项目都会开源，开源组织：https://github.com/xiaoyou-bilibili
 
 ### 🧐本人使用过的语言
 
