@@ -1,3 +1,7 @@
+### 广告
+
+做了一个新[项目](https://zyjj.cc/)，这个是一款智能剪辑工具，我们希望通过人工智能来降低大家的视频创作门槛，欢迎大家试用！
+
 ### 😆 主页浏览量
 
 ![](https://count.getloli.com/get/@xiaoyou66.github.readme)
